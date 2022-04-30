@@ -1,10 +1,12 @@
-### Hi there 👋,I'm Isha Rastogi
+## Hi there 👋,I'm Isha Rastogi
+![I am a Frontend Web Developer](https://github.com/Isha427/Isha427/blob/main/github-header-image.png)
 
-I really enjoy Problem Solving through Web Development & C++. I also enjoy learning new languages and frameworks to enhance my technical skills. Currently I am learning Backend Development.
- ### Skills
+I really enjoy
+Problem Solving through Web Development & C++. I also enjoy learning new languages and frameworks to enhance my technical skills. Currently I am learning Backend Development.
+ ## Skills
  <p align="center">
 <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
@@ -21,7 +23,7 @@ I really enjoy Problem Solving through Web Development & C++. I also enjoy learn
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Isha427)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha427)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha427&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha427)](https://github.com/anuraghazra/github-readme-stats) ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha427&show_icons=true&count_private=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isha427)   -->
 
