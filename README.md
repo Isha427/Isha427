@@ -1,10 +1,19 @@
-### Hi there 👋, Isha Rastogi
-#### Development & Programming
+### Hi there 👋,I  Isha Rastogi
+
 I'am Isha from India , and I really enjoy Problem Solving through Web Development & C++. I also enjoy learning new languages and frameworks to enhance my technical skills. Currently I am learning Backend Development. You can connect with me at https://www.linkedin.com/in/isha-rastogi-5957a51b7/
-
-Skills: C++ / HTML / CSS / Javascript / NodeJS
-
-
+ ### Skills
+ <p align="center">
+<img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;&nbsp;
+ </p>
+ 
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Isha427)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/isha-rastogi-5957a51b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/isha14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/isharastogi/)  
 
