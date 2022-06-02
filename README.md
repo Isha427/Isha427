@@ -1,7 +1,7 @@
 ## Hi there 👋,I'm Isha Rastogi
 ![I am a Frontend Web Developer](https://github.com/Isha427/Isha427/blob/main/github-header-image.png)
 
-I really enjoy
+I enjoy
 Problem Solving through Web Development & C++. I also enjoy learning new languages and frameworks to enhance my technical skills. Currently I am learning Backend Development.
  ## Skills
  <p align="center">
